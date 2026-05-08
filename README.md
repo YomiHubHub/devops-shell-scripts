@@ -1,4 +1,4 @@
-# DevOps Shell Automation Scripts (In the course of my journey, i will be adding more useful scripys to this repository)
+# DevOps Shell Automation Scripts (In the course of my journey, i will be adding more useful scripts to this repository)
 
 A collection of practical, production-style Bash scripts designed to automate common DevOps tasks such as backups and application deployments.
 
